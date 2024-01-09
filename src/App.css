@@ -1,0 +1,9 @@
+/* styles/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+/* GlobalStyles.css */
+
+/* Add more global styles as needed */
